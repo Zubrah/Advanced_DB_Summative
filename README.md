@@ -1,5 +1,4 @@
-# University-Database-Management-System
- 
-University Database Management System is a MySQL database designed to efficiently handle the university records. 
-The ER diagrams are achived using MySQL workbench. The application features indexes, views, 
-stored procedures, triggers and roles and user privileges for access control.
+#Advanced Database System
+
+Link to Report : https://docs.google.com/document/d/1i1p_XDlc2O2NBBRPdCVxkd3ruPDxPIQ_Uq5u4aQ6Qpk/edit?usp=sharing
+
